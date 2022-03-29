@@ -1,0 +1,41 @@
+{
+  "pool": {
+    "USDC-SWYF-0.05%": "0x03a859389ab8229f8b6242f373b4207a2989e84c",
+    "USDC-WETH-0.05%": "0x45dda9cb7c25131df268515131f647d726f50608",
+    "MATIC-WETH-0.3%": "0x167384319b41f7094e62f7506409eb38079abff8",
+    "MATIC-USDC-0.05%": "0xa374094527e1673a86de625aa59517c5de346d32",
+    "MATIC-WETH-0.05%": "0x86f1d8390222a3691c28938ec7404a1661e618e0",
+    "WBTC-WETH-0.05%": "0x50eaedb835021e4a108b7290636d62e9765cc6d7",
+    "USDC-WETH-0.3%": "0x0e44ceb592acfc5d3f09d996302eb4c499ff8c10",
+    "USDC-USDT-0.05%": "0x3f5228d0e7d75467366be7de2c31d0d098ba2c23",
+    "WBTC-USDC-0.3%": "0x847b64f9d3a95e977d157866447a5c0a5dfa0ee5",
+    "MATIC-USDC-0.3%": "0x88f3c15523544835ff6c738ddb30995339ad57d6"
+  },
+  "token": {
+    "USDC": {
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "decimals": 6,
+      "symbol": "USD Coin"
+    },
+    "WETH": {
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "decimals": 18,
+      "symbol": "Wrapped Ether"
+    },
+    "SWYF": {
+      "address": "0xaeE24d5296444c007a532696aaDa9dE5cE6caFD0",
+      "decimals": 18,
+      "symbol": "SW DAO"
+    },
+    "MATIC": {
+      "address": "0x0000000000000000000000000000000000001010",
+      "decimals": 18,
+      "symbol": "MATIC"
+    },
+    "WBTC": {
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "decimals": 8,
+      "symbol": "Wrapped BTC"
+    }
+  }
+}
